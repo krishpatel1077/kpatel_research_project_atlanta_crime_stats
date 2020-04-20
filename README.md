@@ -7,4 +7,4 @@ file types of .png show the images of graph after simulation
 
 file types of .csv show the numerical data in tabular format
 
-file types of .pdf show the source of the numerical data
+file types of .pdf (Directory titled Atlanta CSV) show the source of the numerical data
